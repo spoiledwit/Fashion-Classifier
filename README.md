@@ -1,6 +1,6 @@
 # Fashion Classifier
 
-Fashion Classifier is a predictor that classifies clothing items into 10 different classes. It has been trained on the Fashion MNIST dataset using a classification model. The project is implemented as a React app, with the trained model stored in the public folder.
+Fashion Classifier is a predictor that classifies clothing items into 10 different classes. It has been trained on the Fashion MNIST dataset using a classification architecture. The project is implemented as a React app, with the trained model stored in the public folder.
 
 ## Overview
 
