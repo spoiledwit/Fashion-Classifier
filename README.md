@@ -32,17 +32,13 @@ Training a deep learning model involves multiple iterations of feeding the train
 
 To run the Fashion Classifier locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Fashion-Classifier.git`
+1. Clone the repository: `git clone https://github.com/spoiledwit/Fashion-Classifier.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Access the application in your browser at `http://localhost:3000`.
+3. Start the development server: `npm run dev`
+4. Access the application in your browser at `http://localhost:5173`.
 
 Please note that you will need to have Node.js and npm (Node Package Manager) installed on your machine to run the application.
 
 ## Acknowledgements
 
-The Fashion MNIST dataset used for training the model was originally created by Zalando Research and is widely used for benchmarking machine learning algorithms. TensorFlow, an open-source deep learning framework, was instrumental in training and deploying the model.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+The Fashion MNIST dataset used for training this model was originally created by Zalando Research and is widely used for benchmarking machine learning algorithms. TensorFlow, an open-source deep learning framework, was instrumental in training and deploying the model.
